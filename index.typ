@@ -179,3 +179,7 @@ Knuth, Donald E. 1984. "Literate Programming." #emph[Comput. J.] 27 (2):
 97--111. #link("https://doi.org/10.1093/comjnl/27.2.97");.
 
 ]
+Knuth, Donald E. 1984. "Literate Programming." #emph[Comput. J.] 27 (2):
+97--111. #link("https://doi.org/10.1093/comjnl/27.2.97");.
+
+]

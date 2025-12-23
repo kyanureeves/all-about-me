@@ -1,2 +1,81 @@
-## UAS-5 My Professional Reviews
-Untuk melAkukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik
+# UAS-5 My Professional Reviews
+
+**Rubrik Evaluasi untuk Sistem EdTech Inklusif**
+
+## Pendahuluan
+
+Untuk mengevaluasi apakah sebuah sistem EdTech benar-benar inklusif, saya mengembangkan rubrik evaluasi berbasis AI. Rubrik ini dapat digunakan untuk menilai platform EdTech existing maupun sebagai checklist pengembangan.
+
+## Rubrik Evaluasi EdTech Inklusif
+
+### Kategori 1: Aksesibilitas Teknis (25%)
+
+| Kriteria | Skor 1 (Buruk) | Skor 2 (Cukup) | Skor 3 (Baik) | Skor 4 (Excellent) |
+|----------|----------------|----------------|---------------|-------------------|
+| **Offline Capability** | Online-only | Cache sebagian | Mode offline dasar | Full offline experience |
+| **Device Compatibility** | High-end only | Mid-range+ | Entry-level Android | Feature phone support |
+| **Bandwidth Requirement** | > 5 Mbps | 2-5 Mbps | 500 Kbps - 2 Mbps | < 500 Kbps / works offline |
+| **Installation Size** | > 200 MB | 100-200 MB | 50-100 MB | < 50 MB |
+
+### Kategori 2: Inklusivitas Konten (25%)
+
+| Kriteria | Skor 1 (Buruk) | Skor 2 (Cukup) | Skor 3 (Baik) | Skor 4 (Excellent) |
+|----------|----------------|----------------|---------------|-------------------|
+| **Bahasa** | Hanya Indonesia formal | + 1-2 bahasa daerah | + > 3 bahasa daerah | + Konteks lokal |
+| **Representasi** | Bias urban | Mix urban-rural | Representatif | Locally relevant |
+| **Accessibility** | Tidak ada fitur | Caption saja | + Screen reader | + Sign language |
+| **Cultural Sensitivity** | Satu pendekatan | Pilihan terbatas | Adaptif | Co-created dengan komunitas |
+
+### Kategori 3: Personalisasi Pembelajaran (25%)
+
+| Kriteria | Skor 1 (Buruk) | Skor 2 (Cukup) | Skor 3 (Baik) | Skor 4 (Excellent) |
+|----------|----------------|----------------|---------------|-------------------|
+| **Adaptive Difficulty** | Static | Manual adjustment | Otomatis lambat | Real-time AI |
+| **Learning Path** | Linear wajib | Cabang terbatas | Personalized | AI-generated |
+| **Feedback Quality** | Benar/salah saja | + Penjelasan | + Remedial | + Tutoring AI |
+| **Progress Tracking** | Tidak ada | Basic metrics | Detailed analytics | Predictive insights |
+
+### Kategori 4: Pemberdayaan Ekosistem (25%)
+
+| Kriteria | Skor 1 (Buruk) | Skor 2 (Cukup) | Skor 3 (Baik) | Skor 4 (Excellent) |
+|----------|----------------|----------------|---------------|-------------------|
+| **Teacher Tools** | Tidak ada | Basic dashboard | Insight & recommendation | AI co-teacher |
+| **Parent Involvement** | Tidak ada | Notifikasi saja | Dashboard progress | Actionable guidance |
+| **Peer Learning** | Tidak ada | Forum saja | Real-time collaboration | Offline peer mesh |
+| **Community Content** | Tidak ada | Submission saja | Moderated | Quality-ranked |
+
+## Menggunakan Rubrik
+
+### Metode Evaluasi
+
+1. **Self-Assessment** - Tim development menilai produk sendiri
+2. **Expert Review** - Evaluator eksternal menggunakan rubrik
+3. **User Testing** - Pengguna target memberikan rating
+4. **AI-Assisted** - Model AI menganalisis fitur otomatis
+
+### Interpretasi Skor
+
+| Total Skor | Interpretasi |
+|------------|--------------|
+| 16-32 | ❌ Tidak inklusif - perlu redesign fundamental |
+| 33-48 | ⚠️ Cukup inklusif - ada area yang perlu diperbaiki |
+| 49-56 | ✅ Inklusif - siap digunakan luas |
+| 57-64 | 🌟 Sangat inklusif - bisa jadi referensi |
+
+## Review Diri: EduBridge AI
+
+Menggunakan rubrik di atas, saya melakukan self-review terhadap konsep EduBridge AI:
+
+| Kategori | Skor | Catatan |
+|----------|------|---------|
+| Aksesibilitas Teknis | 15/16 | Perlu validasi di perangkat sangat low-end |
+| Inklusivitas Konten | 12/16 | Perlu lebih banyak konten bahasa daerah |
+| Personalisasi Pembelajaran | 14/16 | AI model perlu training lebih banyak data |
+| Pemberdayaan Ekosistem | 13/16 | Parent dashboard perlu disederhanakan |
+| **Total** | **54/64** | ✅ Inklusif |
+
+## Kesimpulan
+
+Rubrik ini dirancang agar evaluasi EdTech tidak hanya fokus pada fitur mewah, tapi pada **dampak nyata bagi mereka yang paling membutuhkan**. 
+
+Dengan pendekatan AI dan rubrik terstruktur, kita dapat mengukur secara objektif apakah sebuah platform benar-benar **menjembatani kesenjangan** atau justru **memperlebarnya**.

@@ -1,6 +1,6 @@
 # Selamat Berjumpa {.unnumbered}
 
-![About Me](images/profile.jpg){width=950%}
+![About Me](images/profile.png){width=50%}
 
 Saya Kyan Saktya Diraya, lahir di Surakarta pada 27 Juni 2006. Saya berasal dari Surakarta, sempat berpindah ke Surabaya, dan kini keluarga saya tinggal di Tangerang. Saat ini saya berdomisili di Bandung untuk menempuh pendidikan di Institut Teknologi Bandung (ITB), program studi Sistem dan Teknologi Informasi, angkatan 2024.
 Saya juga merupakan anggota biasa HMIF ITB (Himpunan Mahasiswa Informatika ITB), sebuah organisasi yang menjadi wadah bagi mahasiswa Informatika dan STI untuk berkembang bersama.

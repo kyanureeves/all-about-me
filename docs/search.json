@@ -304,7 +304,27 @@
     "href": "My_Concepts/index.html",
     "title": "6  UAS-1 My Concepts",
     "section": "",
-    "text": "Mau hidup epik ? Write your Life Story\nApa itu berkonsep?",
+    "text": "6.1 Latar Belakang Masalah\nEduBridge: Menjembatani Kesenjangan Pendidikan melalui Teknologi Cerdas\nDari 10 masalah kemanusiaan terbesar, saya memilih Kurangnya Akses Pendidikan sebagai fokus Masterpiece saya. Menurut data PBB 2024, sekitar 183,5 juta anak membutuhkan bantuan pendidikan, terutama di daerah konflik dan terpencil. Di Indonesia sendiri, kesenjangan pendidikan antara kota dan desa masih sangat lebar.\nSaya percaya bahwa pendidikan adalah kunci untuk menyelesaikan hampir semua masalah kemanusiaan lainnya - dari kemiskinan hingga ketidaksetaraan. Namun, akses terhadap pendidikan berkualitas masih menjadi privilese, bukan hak universal.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
+    ]
+  },
+  {
+    "objectID": "My_Concepts/index.html#konsep-edubridge-framework",
+    "href": "My_Concepts/index.html#konsep-edubridge-framework",
+    "title": "6  UAS-1 My Concepts",
+    "section": "6.2 Konsep: EduBridge Framework",
+    "text": "6.2 Konsep: EduBridge Framework\nKonsep saya bernama EduBridge - sebuah framework untuk menjembatani kesenjangan pendidikan menggunakan Sistem dan Teknologi Informasi di era AI. Framework ini memiliki tiga pilar utama:\n\n6.2.1 1. Aksesibilitas Universal (Universal Access)\nPendidikan harus dapat diakses oleh siapa saja, kapan saja, di mana saja. Teknologi AI memungkinkan: - Pembelajaran offline-first yang dapat berjalan tanpa koneksi internet stabil - Konten adaptif yang menyesuaikan dengan perangkat yang tersedia (dari smartphone low-end hingga komputer) - Multi-bahasa otomatis melalui AI translation untuk daerah dengan bahasa lokal berbeda\n\n\n6.2.2 2. Personalisasi Pembelajaran (Personalized Learning)\nSetiap individu memiliki cara belajar yang berbeda. AI dapat: - Menganalisis gaya belajar dan menyesuaikan metode penyampaian materi - Mengidentifikasi kesenjangan pengetahuan dan memberikan materi remedial yang tepat - Memotivasi dengan adaptive pacing - tidak terlalu cepat yang membuat frustrasi, tidak terlalu lambat yang membuat bosan\n\n\n6.2.3 3. Pemberdayaan Komunitas (Community Empowerment)\nTeknologi bukan pengganti guru, melainkan penguat. Konsep ini menekankan: - Guru sebagai fasilitator yang diperkuat AI, bukan digantikan - Peer-to-peer learning yang difasilitasi platform digital - Keterlibatan orang tua dan komunitas melalui dashboard pemantauan",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
+    ]
+  },
+  {
+    "objectID": "My_Concepts/index.html#visi-besar",
+    "href": "My_Concepts/index.html#visi-besar",
+    "title": "6  UAS-1 My Concepts",
+    "section": "6.3 Visi Besar",
+    "text": "6.3 Visi Besar\nEduBridge bukan sekadar aplikasi atau platform, melainkan ekosistem pembelajaran yang inklusif. Visi saya adalah menciptakan dunia di mana:\n\n“Setiap anak, di mana pun mereka berada, memiliki kesempatan yang sama untuk belajar dan berkembang sesuai potensi mereka.”\n\nDengan menggabungkan kekuatan AI untuk personalisasi massal dan Sistem Informasi untuk distribusi efisien, kita dapat mengubah pendidikan dari privilese menjadi hak yang benar-benar universal.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
@@ -312,11 +332,111 @@
   {
     "objectID": "My_Opinions/index.html",
     "href": "My_Opinions/index.html",
-    "title": "7  UAS-3 My Opinions",
+    "title": "7  UAS-2 My Opinions",
     "section": "",
-    "text": "SApa itu beropini? Opini Berpengaruh\nBagiamana menjaadi menarik? Menjadi Menarik",
+    "text": "7.1 Pendahuluan\nOpini: Revolusi Pendidikan Indonesia Harus Dimulai dari Teknologi yang Merakyat\nIndonesia memiliki lebih dari 60 juta pelajar, tersebar di 17.000 pulau dengan infrastruktur yang sangat bervariasi. Namun, kebijakan pendidikan digital kita masih Jakarta-sentris - dirancang untuk anak kota dengan akses internet cepat dan perangkat canggih.\nIni adalah opini saya yang tegas: Revolusi pendidikan Indonesia tidak akan berhasil jika kita terus membangun untuk 20% teratas, sambil berharap 80% sisanya akan “menyusul”.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-3 My Opinions</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-2 My Opinions</span>"
+    ]
+  },
+  {
+    "objectID": "My_Opinions/index.html#masalah-digital-divide-yang-semakin-lebar",
+    "href": "My_Opinions/index.html#masalah-digital-divide-yang-semakin-lebar",
+    "title": "7  UAS-2 My Opinions",
+    "section": "7.2 Masalah: Digital Divide yang Semakin Lebar",
+    "text": "7.2 Masalah: Digital Divide yang Semakin Lebar\nPandemi COVID-19 mengekspos kesenjangan digital yang brutal. Sementara siswa di Jakarta bisa mengikuti kelas Zoom dengan lancar, siswa di NTT harus naik bukit untuk mencari sinyal. Yang lebih ironis:\n\nPlatform e-learning pemerintah membutuhkan bandwidth tinggi\nKurikulum digital diasumsikan semua siswa punya laptop/tablet\nUjian online menjadi tidak adil ketika koneksi menentukan nilai\n\nKita tidak sedang membangun pendidikan inklusif - kita sedang memperlebar jurang.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-2 My Opinions</span>"
+    ]
+  },
+  {
+    "objectID": "My_Opinions/index.html#posisi-saya-technology-for-the-bottom-not-the-top",
+    "href": "My_Opinions/index.html#posisi-saya-technology-for-the-bottom-not-the-top",
+    "title": "7  UAS-2 My Opinions",
+    "section": "7.3 Posisi Saya: Technology for the Bottom, Not the Top",
+    "text": "7.3 Posisi Saya: Technology for the Bottom, Not the Top\nSaya percaya pendekatan yang benar adalah membangun untuk yang paling sulit dijangkau terlebih dahulu. Ini berarti:\n\n7.3.1 1. Offline-First, Online-Enhanced\nSemua materi pembelajaran harus bisa diakses offline. Sinkronisasi online adalah bonus, bukan keharusan. WhatsApp dan SMS bisa menjadi channel pembelajaran yang lebih efektif daripada aplikasi mewah yang butuh 4G.\n\n\n7.3.2 2. Low-Tech Device Compatibility\nMayoritas keluarga Indonesia memiliki smartphone Android entry-level dengan RAM 2GB. Aplikasi pendidikan yang membutuhkan RAM 4GB adalah aplikasi yang memilih siswanya.\n\n\n7.3.3 3. AI yang Bekerja di Edge, Bukan Cloud\nModel AI ringan yang berjalan di perangkat lokal (edge computing) jauh lebih inklusif daripada layanan cloud yang membutuhkan internet stabil.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-2 My Opinions</span>"
+    ]
+  },
+  {
+    "objectID": "My_Opinions/index.html#kritik-terhadap-tren-saat-ini",
+    "href": "My_Opinions/index.html#kritik-terhadap-tren-saat-ini",
+    "title": "7  UAS-2 My Opinions",
+    "section": "7.4 Kritik terhadap Tren Saat Ini",
+    "text": "7.4 Kritik terhadap Tren Saat Ini\nBanyak startup EdTech Indonesia yang mengklaim “demokratisasi pendidikan” tapi: - Membutuhkan langganan berbayar untuk fitur esensial - Hanya tersedia dalam Bahasa Indonesia formal (bukan bahasa daerah) - Dirancang untuk siswa yang sudah termotivasi, bukan yang butuh motivasi\nIni bukan demokratisasi - ini komodifikasi.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-2 My Opinions</span>"
+    ]
+  },
+  {
+    "objectID": "My_Opinions/index.html#solusi-yang-saya-usulkan",
+    "href": "My_Opinions/index.html#solusi-yang-saya-usulkan",
+    "title": "7  UAS-2 My Opinions",
+    "section": "7.5 Solusi yang Saya Usulkan",
+    "text": "7.5 Solusi yang Saya Usulkan\n\nRegulasi inklusivitas digital - Wajibkan semua platform EdTech yang didanai pemerintah untuk mendukung mode offline dan perangkat low-end\nKurikulum AI yang etis - Ajarkan AI literacy bukan hanya di kota, tapi mulai dari desa\nDesentralisasi konten - Libatkan guru lokal dalam pembuatan konten yang relevan secara budaya",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-2 My Opinions</span>"
+    ]
+  },
+  {
+    "objectID": "My_Opinions/index.html#penutup",
+    "href": "My_Opinions/index.html#penutup",
+    "title": "7  UAS-2 My Opinions",
+    "section": "7.6 Penutup",
+    "text": "7.6 Penutup\nKita tidak bisa menunggu infrastruktur sempurna untuk memulai. Generasi yang kehilangan pendidikan hari ini tidak bisa menunggu kabel fiber optik sampai ke desanya.\nSaatnya kita membalik paradigma: bukan membawa siswa ke teknologi, tapi membawa teknologi kepada siswa - dengan cara yang mereka bisa gunakan.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-2 My Opinions</span>"
+    ]
+  },
+  {
+    "objectID": "My_Innovations/index.html",
+    "href": "My_Innovations/index.html",
+    "title": "8  UAS-3 My Innovations",
+    "section": "",
+    "text": "8.1 Latar Belakang\nEduBridge AI: Sistem Pembelajaran Adaptif Berbasis Edge Computing\nBerdasarkan konsep EduBridge dan opini saya tentang pendidikan inklusif, saya mengembangkan inovasi teknis bernama EduBridge AI - sebuah sistem pembelajaran adaptif yang dapat berjalan di perangkat dengan spesifikasi rendah tanpa ketergantungan pada koneksi internet.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>UAS-3 My Innovations</span>"
+    ]
+  },
+  {
+    "objectID": "My_Innovations/index.html#arsitektur-sistem",
+    "href": "My_Innovations/index.html#arsitektur-sistem",
+    "title": "8  UAS-3 My Innovations",
+    "section": "8.2 Arsitektur Sistem",
+    "text": "8.2 Arsitektur Sistem\nEduBridge AI terdiri dari lima komponen utama yang terintegrasi:\n\n8.2.1 1. Edge AI Engine (EAE)\nIni adalah jantung dari sistem - model AI ringan yang berjalan langsung di perangkat pengguna.\nSpesifikasi: - Menggunakan model TinyML dengan ukuran &lt; 50MB - Berjalan di perangkat Android dengan RAM minimal 1GB - Tidak membutuhkan koneksi internet untuk inferensi dasar\nFungsi: - Menganalisis pola belajar siswa secara real-time - Menyesuaikan tingkat kesulitan materi - Memberikan feedback instan tanpa latency jaringan\n\n\n8.2.2 2. Adaptive Content Delivery System (ACDS)\nSistem pengiriman konten yang cerdas berdasarkan kondisi jaringan:\n\n\n\nKondisi Jaringan\nMode Pengiriman\n\n\n\n\nTidak ada koneksi\nKonten offline yang sudah di-cache\n\n\nKoneksi lambat (2G/3G)\nTeks + audio, tanpa video\n\n\nKoneksi sedang (4G)\nVideo terkompresi + interaktif\n\n\nKoneksi cepat (WiFi)\nFull experience dengan kolaborasi real-time\n\n\n\n\n\n8.2.3 3. Knowledge Graph Lokal (KGL)\nSetiap perangkat memiliki knowledge graph mini yang memetakan: - Konsep yang sudah dikuasai siswa - Konsep yang masih lemah - Jalur pembelajaran optimal\nKnowledge graph ini di-sinkronisasi ke cloud ketika tersedia koneksi, memungkinkan guru untuk memantau progress.\n\n\n8.2.4 4. Peer Mesh Network (PMN)\nKetika berada di area tanpa internet tapi dengan beberapa pengguna: - Perangkat membentuk jaringan mesh via Bluetooth/WiFi Direct - Siswa bisa berbagi konten dan belajar bersama - Progress tetap tersinkronisasi dalam kelompok\n\n\n8.2.5 5. Teacher Dashboard (TD)\nInterface untuk guru yang menampilkan: - Progress agregat seluruh kelas - Identifikasi siswa yang membutuhkan bantuan ekstra - Rekomendasi materi yang perlu diulang secara klasikal",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>UAS-3 My Innovations</span>"
+    ]
+  },
+  {
+    "objectID": "My_Innovations/index.html#inovasi-kunci",
+    "href": "My_Innovations/index.html#inovasi-kunci",
+    "title": "8  UAS-3 My Innovations",
+    "section": "8.3 Inovasi Kunci",
+    "text": "8.3 Inovasi Kunci\nYang membedakan EduBridge AI dari solusi EdTech lainnya:\n\nAI-First, Cloud-Second - AI berjalan lokal, cloud hanya untuk sinkronisasi\nProgressive Enhancement - Pengalaman meningkat sesuai kemampuan perangkat dan jaringan\nCommunity-Centric - Peer mesh network membuat pembelajaran tetap sosial walau offline\nTeacher-Augmented - Guru diperkuat dengan insight, bukan digantikan",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>UAS-3 My Innovations</span>"
+    ]
+  },
+  {
+    "objectID": "My_Innovations/index.html#teknologi-yang-digunakan",
+    "href": "My_Innovations/index.html#teknologi-yang-digunakan",
+    "title": "8  UAS-3 My Innovations",
+    "section": "8.4 Teknologi yang Digunakan",
+    "text": "8.4 Teknologi yang Digunakan\n\nTensorFlow Lite / ONNX Runtime untuk model AI ringan\nSQLite + Room untuk penyimpanan lokal\nNearby Connections API untuk peer mesh\nFlutter untuk cross-platform development\nFirebase untuk sinkronisasi ketika online",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>UAS-3 My Innovations</span>"
+    ]
+  },
+  {
+    "objectID": "My_Innovations/index.html#dampak-yang-diharapkan",
+    "href": "My_Innovations/index.html#dampak-yang-diharapkan",
+    "title": "8  UAS-3 My Innovations",
+    "section": "8.5 Dampak yang Diharapkan",
+    "text": "8.5 Dampak yang Diharapkan\nDengan EduBridge AI, seorang siswa di desa terpencil dengan smartphone Android bekas dan tanpa internet tetap dapat: - Belajar dengan kurikulum yang sama dengan siswa kota - Mendapat personalisasi yang sama berdasarkan kemampuannya - Berkolaborasi dengan teman-teman sekitarnya - Terpantau progressnya oleh guru\nInilah demokratisasi pendidikan yang sebenarnya - bukan memberikan link ke siswa, tapi memberikan seluruh pengalaman belajar.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>UAS-3 My Innovations</span>"
     ]
   },
   {
@@ -324,7 +444,37 @@
     "href": "My_Knowledge/index.html",
     "title": "9  UAS-4 My Knowledge",
     "section": "",
-    "text": "Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain 1) saya tulis makalah sebagai bahan utama 2) lalu saya buat transkrip ucapan lisan 3) kemudian saya kembangkan slide pendukung trnsskrip 4) lalu saya memproduksivideo audio visual",
+    "text": "9.1 Pendahuluan\nMetodologi EduBridge: Framework Pengembangan EdTech Inklusif\nUntuk mewujudkan inovasi EduBridge AI, diperlukan metodologi yang sistematis. Di sini saya membahas pengetahuan dan framework yang menjadi fondasi pengembangan sistem EdTech yang benar-benar inklusif.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4 My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Knowledge/index.html#body-of-knowledge-inclusive-design-principles",
+    "href": "My_Knowledge/index.html#body-of-knowledge-inclusive-design-principles",
+    "title": "9  UAS-4 My Knowledge",
+    "section": "9.2 Body of Knowledge: Inclusive Design Principles",
+    "text": "9.2 Body of Knowledge: Inclusive Design Principles\n\n9.2.1 1. Universal Design for Learning (UDL)\nUDL adalah framework yang dikembangkan oleh CAST yang terdiri dari tiga prinsip utama:\n\n\n\n\n\n\n\n\nPrinsip\nDeskripsi\nImplementasi di EduBridge\n\n\n\n\nMultiple Means of Engagement\nMemberikan berbagai cara untuk memotivasi siswa\nGamifikasi adaptif, reward system personal\n\n\nMultiple Means of Representation\nMenyajikan informasi dalam berbagai format\nTeks, audio, video, interaktif - sesuai bandwidth\n\n\nMultiple Means of Action & Expression\nBerbagai cara bagi siswa untuk menunjukkan pemahaman\nQuiz, project, audio recording, written response\n\n\n\n\n\n9.2.2 2. Principles of Offline-First Design\nMetodologi pengembangan aplikasi yang mengutamakan fungsionalitas offline:\n6 Prinsip Offline-First:\n\nAssume disconnection - Default state adalah offline\nSync opportunistically - Upload/download ketika ada koneksi\nResolve conflicts gracefully - Mekanisme merge yang jelas\nKeep the user informed - Transparansi status sinkronisasi\nMinimize data requirements - Kompresi dan optimisasi agresif\nEnable peer-to-peer - Fasilitasi berbagi antar perangkat\n\n\n\n9.2.3 3. Edge AI / TinyML\nPengetahuan tentang menjalankan machine learning di perangkat dengan resource terbatas:\nTeknik Optimisasi Model: - Quantization - Mengubah float32 menjadi int8 - Pruning - Memangkas koneksi yang tidak penting - Knowledge Distillation - Transfer dari model besar ke model kecil - Model Compression - Teknik kompresi arsitektur\nContoh hasil: Model GPT-2 yang biasanya 500MB bisa dikompresi menjadi &lt; 50MB dengan tetap mempertahankan 90%+ akurasi untuk task spesifik.\n\n\n9.2.4 4. Learning Analytics Framework\nUntuk memahami bagaimana siswa belajar, diperlukan framework analitik:\n┌─────────────────────────────────────────────┐\n│              Learning Analytics             │\n├─────────────────────────────────────────────┤\n│  Layer 1: Data Collection                   │\n│  - Interaction logs, time spent, attempts   │\n├─────────────────────────────────────────────┤\n│  Layer 2: Analysis                          │\n│  - Pattern recognition, clustering          │\n├─────────────────────────────────────────────┤\n│  Layer 3: Insight Generation                │\n│  - Struggling topics, optimal pace          │\n├─────────────────────────────────────────────┤\n│  Layer 4: Action                            │\n│  - Personalized recommendations             │\n└─────────────────────────────────────────────┘",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4 My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Knowledge/index.html#sintesis-edubridge-methodology",
+    "href": "My_Knowledge/index.html#sintesis-edubridge-methodology",
+    "title": "9  UAS-4 My Knowledge",
+    "section": "9.3 Sintesis: EduBridge Methodology",
+    "text": "9.3 Sintesis: EduBridge Methodology\nMenggabungkan keempat body of knowledge di atas, saya mengembangkan EduBridge Methodology dengan langkah-langkah:\n\n9.3.1 Fase 1: Understand (Memahami)\n\nRiset konteks lokal (infrastruktur, budaya, bahasa)\nIdentifikasi constraint (perangkat, bandwidth, literasi digital)\nMapping stakeholder (siswa, guru, orang tua, pemerintah)\n\n\n\n9.3.2 Fase 2: Design (Merancang)\n\nTentukan minimum viable experience untuk kondisi terburuk\nRancang progressive enhancement untuk kondisi lebih baik\nValidasi dengan pengguna target di lapangan\n\n\n\n9.3.3 Fase 3: Build (Membangun)\n\nKembangkan AI model yang ringan terlebih dahulu\nBangun offline-first architecture\nImplementasi peer-to-peer capabilities\n\n\n\n9.3.4 Fase 4: Deploy (Menyebarkan)\n\nDistribusi via APK langsung (tidak hanya Play Store)\nTraining untuk guru dan fasilitator lokal\nSetup mekanisme feedback\n\n\n\n9.3.5 Fase 5: Iterate (Mengulang)\n\nKumpulkan learning analytics\nIdentifikasi pain points dan opportunities\nUpdate model dan konten secara berkala",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4 My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Knowledge/index.html#kesimpulan",
+    "href": "My_Knowledge/index.html#kesimpulan",
+    "title": "9  UAS-4 My Knowledge",
+    "section": "9.4 Kesimpulan",
+    "text": "9.4 Kesimpulan\nPengetahuan teknis saja tidak cukup untuk menciptakan EdTech yang berdampak. Diperlukan sintesis antara: - Teori pendidikan (UDL) - Arsitektur teknis (Offline-First, Edge AI) - Data science (Learning Analytics) - Design thinking (User-centered approach)\nEduBridge Methodology adalah upaya saya untuk menyatukan berbagai domain pengetahuan ini ke dalam satu framework yang actionable.",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4 My Knowledge</span>"
     ]
@@ -334,7 +484,47 @@
     "href": "My_Professional_Reviews/index.html",
     "title": "10  UAS-5 My Professional Reviews",
     "section": "",
-    "text": "Untuk melAkukan review, seperti pada pendekatan AI, kita membutuhkan rubrik",
+    "text": "10.1 Pendahuluan\nRubrik Evaluasi untuk Sistem EdTech Inklusif\nUntuk mengevaluasi apakah sebuah sistem EdTech benar-benar inklusif, saya mengembangkan rubrik evaluasi berbasis AI. Rubrik ini dapat digunakan untuk menilai platform EdTech existing maupun sebagai checklist pengembangan.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Professional Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Professional_Reviews/index.html#rubrik-evaluasi-edtech-inklusif",
+    "href": "My_Professional_Reviews/index.html#rubrik-evaluasi-edtech-inklusif",
+    "title": "10  UAS-5 My Professional Reviews",
+    "section": "10.2 Rubrik Evaluasi EdTech Inklusif",
+    "text": "10.2 Rubrik Evaluasi EdTech Inklusif\n\n10.2.1 Kategori 1: Aksesibilitas Teknis (25%)\n\n\n\n\n\n\n\n\n\n\nKriteria\nSkor 1 (Buruk)\nSkor 2 (Cukup)\nSkor 3 (Baik)\nSkor 4 (Excellent)\n\n\n\n\nOffline Capability\nOnline-only\nCache sebagian\nMode offline dasar\nFull offline experience\n\n\nDevice Compatibility\nHigh-end only\nMid-range+\nEntry-level Android\nFeature phone support\n\n\nBandwidth Requirement\n&gt; 5 Mbps\n2-5 Mbps\n500 Kbps - 2 Mbps\n&lt; 500 Kbps / works offline\n\n\nInstallation Size\n&gt; 200 MB\n100-200 MB\n50-100 MB\n&lt; 50 MB\n\n\n\n\n\n10.2.2 Kategori 2: Inklusivitas Konten (25%)\n\n\n\n\n\n\n\n\n\n\nKriteria\nSkor 1 (Buruk)\nSkor 2 (Cukup)\nSkor 3 (Baik)\nSkor 4 (Excellent)\n\n\n\n\nBahasa\nHanya Indonesia formal\n+ 1-2 bahasa daerah\n+ &gt; 3 bahasa daerah\n+ Konteks lokal\n\n\nRepresentasi\nBias urban\nMix urban-rural\nRepresentatif\nLocally relevant\n\n\nAccessibility\nTidak ada fitur\nCaption saja\n+ Screen reader\n+ Sign language\n\n\nCultural Sensitivity\nSatu pendekatan\nPilihan terbatas\nAdaptif\nCo-created dengan komunitas\n\n\n\n\n\n10.2.3 Kategori 3: Personalisasi Pembelajaran (25%)\n\n\n\n\n\n\n\n\n\n\nKriteria\nSkor 1 (Buruk)\nSkor 2 (Cukup)\nSkor 3 (Baik)\nSkor 4 (Excellent)\n\n\n\n\nAdaptive Difficulty\nStatic\nManual adjustment\nOtomatis lambat\nReal-time AI\n\n\nLearning Path\nLinear wajib\nCabang terbatas\nPersonalized\nAI-generated\n\n\nFeedback Quality\nBenar/salah saja\n+ Penjelasan\n+ Remedial\n+ Tutoring AI\n\n\nProgress Tracking\nTidak ada\nBasic metrics\nDetailed analytics\nPredictive insights\n\n\n\n\n\n10.2.4 Kategori 4: Pemberdayaan Ekosistem (25%)\n\n\n\n\n\n\n\n\n\n\nKriteria\nSkor 1 (Buruk)\nSkor 2 (Cukup)\nSkor 3 (Baik)\nSkor 4 (Excellent)\n\n\n\n\nTeacher Tools\nTidak ada\nBasic dashboard\nInsight & recommendation\nAI co-teacher\n\n\nParent Involvement\nTidak ada\nNotifikasi saja\nDashboard progress\nActionable guidance\n\n\nPeer Learning\nTidak ada\nForum saja\nReal-time collaboration\nOffline peer mesh\n\n\nCommunity Content\nTidak ada\nSubmission saja\nModerated\nQuality-ranked",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Professional Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Professional_Reviews/index.html#menggunakan-rubrik",
+    "href": "My_Professional_Reviews/index.html#menggunakan-rubrik",
+    "title": "10  UAS-5 My Professional Reviews",
+    "section": "10.3 Menggunakan Rubrik",
+    "text": "10.3 Menggunakan Rubrik\n\n10.3.1 Metode Evaluasi\n\nSelf-Assessment - Tim development menilai produk sendiri\nExpert Review - Evaluator eksternal menggunakan rubrik\nUser Testing - Pengguna target memberikan rating\nAI-Assisted - Model AI menganalisis fitur otomatis\n\n\n\n10.3.2 Interpretasi Skor\n\n\n\nTotal Skor\nInterpretasi\n\n\n\n\n16-32\n❌ Tidak inklusif - perlu redesign fundamental\n\n\n33-48\n⚠️ Cukup inklusif - ada area yang perlu diperbaiki\n\n\n49-56\n✅ Inklusif - siap digunakan luas\n\n\n57-64\n🌟 Sangat inklusif - bisa jadi referensi",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Professional Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Professional_Reviews/index.html#review-diri-edubridge-ai",
+    "href": "My_Professional_Reviews/index.html#review-diri-edubridge-ai",
+    "title": "10  UAS-5 My Professional Reviews",
+    "section": "10.4 Review Diri: EduBridge AI",
+    "text": "10.4 Review Diri: EduBridge AI\nMenggunakan rubrik di atas, saya melakukan self-review terhadap konsep EduBridge AI:\n\n\n\n\n\n\n\n\nKategori\nSkor\nCatatan\n\n\n\n\nAksesibilitas Teknis\n15/16\nPerlu validasi di perangkat sangat low-end\n\n\nInklusivitas Konten\n12/16\nPerlu lebih banyak konten bahasa daerah\n\n\nPersonalisasi Pembelajaran\n14/16\nAI model perlu training lebih banyak data\n\n\nPemberdayaan Ekosistem\n13/16\nParent dashboard perlu disederhanakan\n\n\nTotal\n54/64\n✅ Inklusif",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Professional Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Professional_Reviews/index.html#kesimpulan",
+    "href": "My_Professional_Reviews/index.html#kesimpulan",
+    "title": "10  UAS-5 My Professional Reviews",
+    "section": "10.5 Kesimpulan",
+    "text": "10.5 Kesimpulan\nRubrik ini dirancang agar evaluasi EdTech tidak hanya fokus pada fitur mewah, tapi pada dampak nyata bagi mereka yang paling membutuhkan.\nDengan pendekatan AI dan rubrik terstruktur, kita dapat mengukur secara objektif apakah sebuah platform benar-benar menjembatani kesenjangan atau justru memperlebarnya.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Professional Reviews</span>"
     ]

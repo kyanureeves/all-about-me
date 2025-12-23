@@ -155,7 +155,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../My_Opinions/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">UAS-3 My Opinions</span></span></a>
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">UAS-2 My Opinions</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -193,8 +193,25 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#latar-belakang" id="toc-latar-belakang" class="nav-link active" data-scroll-target="#latar-belakang"><span class="header-section-number">8.1</span> Latar Belakang</a></li>
+  <li><a href="#arsitektur-sistem" id="toc-arsitektur-sistem" class="nav-link" data-scroll-target="#arsitektur-sistem"><span class="header-section-number">8.2</span> Arsitektur Sistem</a>
+  <ul class="collapse">
+  <li><a href="#edge-ai-engine-eae" id="toc-edge-ai-engine-eae" class="nav-link" data-scroll-target="#edge-ai-engine-eae"><span class="header-section-number">8.2.1</span> 1. <strong>Edge AI Engine (EAE)</strong></a></li>
+  <li><a href="#adaptive-content-delivery-system-acds" id="toc-adaptive-content-delivery-system-acds" class="nav-link" data-scroll-target="#adaptive-content-delivery-system-acds"><span class="header-section-number">8.2.2</span> 2. <strong>Adaptive Content Delivery System (ACDS)</strong></a></li>
+  <li><a href="#knowledge-graph-lokal-kgl" id="toc-knowledge-graph-lokal-kgl" class="nav-link" data-scroll-target="#knowledge-graph-lokal-kgl"><span class="header-section-number">8.2.3</span> 3. <strong>Knowledge Graph Lokal (KGL)</strong></a></li>
+  <li><a href="#peer-mesh-network-pmn" id="toc-peer-mesh-network-pmn" class="nav-link" data-scroll-target="#peer-mesh-network-pmn"><span class="header-section-number">8.2.4</span> 4. <strong>Peer Mesh Network (PMN)</strong></a></li>
+  <li><a href="#teacher-dashboard-td" id="toc-teacher-dashboard-td" class="nav-link" data-scroll-target="#teacher-dashboard-td"><span class="header-section-number">8.2.5</span> 5. <strong>Teacher Dashboard (TD)</strong></a></li>
+  </ul></li>
+  <li><a href="#inovasi-kunci" id="toc-inovasi-kunci" class="nav-link" data-scroll-target="#inovasi-kunci"><span class="header-section-number">8.3</span> Inovasi Kunci</a></li>
+  <li><a href="#teknologi-yang-digunakan" id="toc-teknologi-yang-digunakan" class="nav-link" data-scroll-target="#teknologi-yang-digunakan"><span class="header-section-number">8.4</span> Teknologi yang Digunakan</a></li>
+  <li><a href="#dampak-yang-diharapkan" id="toc-dampak-yang-diharapkan" class="nav-link" data-scroll-target="#dampak-yang-diharapkan"><span class="header-section-number">8.5</span> Dampak yang Diharapkan</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -218,8 +235,97 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p><strong>EduBridge AI: Sistem Pembelajaran Adaptif Berbasis Edge Computing</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../images/edubridge_architecture.png" class="img-fluid figure-img"></p>
+<figcaption>EduBridge Architecture</figcaption>
+</figure>
+</div>
+<section id="latar-belakang" class="level2" data-number="8.1">
+<h2 data-number="8.1" class="anchored" data-anchor-id="latar-belakang"><span class="header-section-number">8.1</span> Latar Belakang</h2>
+<p>Berdasarkan konsep EduBridge dan opini saya tentang pendidikan inklusif, saya mengembangkan inovasi teknis bernama <strong>EduBridge AI</strong> - sebuah sistem pembelajaran adaptif yang dapat berjalan di perangkat dengan spesifikasi rendah tanpa ketergantungan pada koneksi internet.</p>
+</section>
+<section id="arsitektur-sistem" class="level2" data-number="8.2">
+<h2 data-number="8.2" class="anchored" data-anchor-id="arsitektur-sistem"><span class="header-section-number">8.2</span> Arsitektur Sistem</h2>
+<p>EduBridge AI terdiri dari lima komponen utama yang terintegrasi:</p>
+<section id="edge-ai-engine-eae" class="level3" data-number="8.2.1">
+<h3 data-number="8.2.1" class="anchored" data-anchor-id="edge-ai-engine-eae"><span class="header-section-number">8.2.1</span> 1. <strong>Edge AI Engine (EAE)</strong></h3>
+<p>Ini adalah jantung dari sistem - model AI ringan yang berjalan langsung di perangkat pengguna.</p>
+<p><strong>Spesifikasi:</strong> - Menggunakan model TinyML dengan ukuran &lt; 50MB - Berjalan di perangkat Android dengan RAM minimal 1GB - Tidak membutuhkan koneksi internet untuk inferensi dasar</p>
+<p><strong>Fungsi:</strong> - Menganalisis pola belajar siswa secara real-time - Menyesuaikan tingkat kesulitan materi - Memberikan feedback instan tanpa latency jaringan</p>
+</section>
+<section id="adaptive-content-delivery-system-acds" class="level3" data-number="8.2.2">
+<h3 data-number="8.2.2" class="anchored" data-anchor-id="adaptive-content-delivery-system-acds"><span class="header-section-number">8.2.2</span> 2. <strong>Adaptive Content Delivery System (ACDS)</strong></h3>
+<p>Sistem pengiriman konten yang cerdas berdasarkan kondisi jaringan:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Kondisi Jaringan</th>
+<th>Mode Pengiriman</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Tidak ada koneksi</td>
+<td>Konten offline yang sudah di-cache</td>
+</tr>
+<tr class="even">
+<td>Koneksi lambat (2G/3G)</td>
+<td>Teks + audio, tanpa video</td>
+</tr>
+<tr class="odd">
+<td>Koneksi sedang (4G)</td>
+<td>Video terkompresi + interaktif</td>
+</tr>
+<tr class="even">
+<td>Koneksi cepat (WiFi)</td>
+<td>Full experience dengan kolaborasi real-time</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="knowledge-graph-lokal-kgl" class="level3" data-number="8.2.3">
+<h3 data-number="8.2.3" class="anchored" data-anchor-id="knowledge-graph-lokal-kgl"><span class="header-section-number">8.2.3</span> 3. <strong>Knowledge Graph Lokal (KGL)</strong></h3>
+<p>Setiap perangkat memiliki knowledge graph mini yang memetakan: - Konsep yang sudah dikuasai siswa - Konsep yang masih lemah - Jalur pembelajaran optimal</p>
+<p>Knowledge graph ini di-sinkronisasi ke cloud ketika tersedia koneksi, memungkinkan guru untuk memantau progress.</p>
+</section>
+<section id="peer-mesh-network-pmn" class="level3" data-number="8.2.4">
+<h3 data-number="8.2.4" class="anchored" data-anchor-id="peer-mesh-network-pmn"><span class="header-section-number">8.2.4</span> 4. <strong>Peer Mesh Network (PMN)</strong></h3>
+<p>Ketika berada di area tanpa internet tapi dengan beberapa pengguna: - Perangkat membentuk jaringan mesh via Bluetooth/WiFi Direct - Siswa bisa berbagi konten dan belajar bersama - Progress tetap tersinkronisasi dalam kelompok</p>
+</section>
+<section id="teacher-dashboard-td" class="level3" data-number="8.2.5">
+<h3 data-number="8.2.5" class="anchored" data-anchor-id="teacher-dashboard-td"><span class="header-section-number">8.2.5</span> 5. <strong>Teacher Dashboard (TD)</strong></h3>
+<p>Interface untuk guru yang menampilkan: - Progress agregat seluruh kelas - Identifikasi siswa yang membutuhkan bantuan ekstra - Rekomendasi materi yang perlu diulang secara klasikal</p>
+</section>
+</section>
+<section id="inovasi-kunci" class="level2" data-number="8.3">
+<h2 data-number="8.3" class="anchored" data-anchor-id="inovasi-kunci"><span class="header-section-number">8.3</span> Inovasi Kunci</h2>
+<p><strong>Yang membedakan EduBridge AI dari solusi EdTech lainnya:</strong></p>
+<ol type="1">
+<li><strong>AI-First, Cloud-Second</strong> - AI berjalan lokal, cloud hanya untuk sinkronisasi</li>
+<li><strong>Progressive Enhancement</strong> - Pengalaman meningkat sesuai kemampuan perangkat dan jaringan</li>
+<li><strong>Community-Centric</strong> - Peer mesh network membuat pembelajaran tetap sosial walau offline</li>
+<li><strong>Teacher-Augmented</strong> - Guru diperkuat dengan insight, bukan digantikan</li>
+</ol>
+</section>
+<section id="teknologi-yang-digunakan" class="level2" data-number="8.4">
+<h2 data-number="8.4" class="anchored" data-anchor-id="teknologi-yang-digunakan"><span class="header-section-number">8.4</span> Teknologi yang Digunakan</h2>
+<ul>
+<li><strong>TensorFlow Lite / ONNX Runtime</strong> untuk model AI ringan</li>
+<li><strong>SQLite + Room</strong> untuk penyimpanan lokal</li>
+<li><strong>Nearby Connections API</strong> untuk peer mesh</li>
+<li><strong>Flutter</strong> untuk cross-platform development</li>
+<li><strong>Firebase</strong> untuk sinkronisasi ketika online</li>
+</ul>
+</section>
+<section id="dampak-yang-diharapkan" class="level2" data-number="8.5">
+<h2 data-number="8.5" class="anchored" data-anchor-id="dampak-yang-diharapkan"><span class="header-section-number">8.5</span> Dampak yang Diharapkan</h2>
+<p>Dengan EduBridge AI, seorang siswa di desa terpencil dengan smartphone Android bekas dan tanpa internet tetap dapat: - Belajar dengan kurikulum yang sama dengan siswa kota - Mendapat personalisasi yang sama berdasarkan kemampuannya - Berkolaborasi dengan teman-teman sekitarnya - Terpantau progressnya oleh guru</p>
+<p><strong>Inilah demokratisasi pendidikan yang sebenarnya - bukan memberikan link ke siswa, tapi memberikan seluruh pengalaman belajar.</strong></p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -624,8 +730,8 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../My_Opinions/index.html" class="pagination-link" aria-label="UAS-3 My Opinions">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">UAS-3 My Opinions</span></span>
+      <a href="../My_Opinions/index.html" class="pagination-link" aria-label="UAS-2 My Opinions">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">UAS-2 My Opinions</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">

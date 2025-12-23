@@ -1,6 +1,6 @@
 # UTS-1 All About Me
 
-![About Me](../images/profile.jpg){width=950%}
+![About Me](../images/profile.png){width=50%}
 
 Saya lahir di Surakarta pada 27 Juni 2006. Meski berasal dari Surakarta, perjalanan hidup membawa saya sempat pindah ke Surabaya, dan kini keluarga saya menetap di Tangerang. Saat ini saya tinggal di Bandung untuk menempuh pendidikan di Institut Teknologi Bandung, jurusan Sistem dan Teknologi Informasi, Fakultas STEI-K, angkatan 2024.
 Saya merupakan anggota biasa di HMIF ITB (Himpunan Mahasiswa Informatika ITB).

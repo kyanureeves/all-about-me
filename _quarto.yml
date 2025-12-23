@@ -27,8 +27,14 @@ bibliography: references.bib
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - darkly
+      - netflix-theme.scss
+    backgroundcolor: "#141414"
+    fontcolor: "#FFFFFF"
+    linkcolor: "#E50914"
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
   pdf:
     documentclass: scrreprt
 

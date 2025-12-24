@@ -8,6 +8,21 @@ UAS-5 merupakan bagian akhir dari rangkaian UAS ini yang berisi telaah pesan pro
 
 ---
 
+## 📊 Lembar Skor Penilaian
+
+**Link File Excel Lembar Skor:** [UAS-5_Skor.xlsx](https://itbdsti-my.sharepoint.com/:x:/g/personal/18224105_mahasiswa_itb_ac_id/IQAH8aU4dh59ToIwDPOZ4uHHAfiDrHAYXAf0fcFZl4ernSI?e=prxcmK)
+
+File Excel di atas berisi skor penilaian dengan struktur sebagai berikut:
+
+| Baris | Jenis Penilaian | NIM | Nama |
+|-------|----------------|-----|------|
+| 1 | Self-Assessment (dengan AI) | 18224105 | Kyan Saktya Diraya |
+| 2 | Peer Assessment 1 | 18224081 | Illona Nasywa Hannum |
+| 3 | Peer Assessment 2 | 18222087 | Satria Wisnu Wibowo |
+| 4 | Peer Assessment 3 | 18224083 | Antania Hanjani Yustika |
+
+---
+
 ## 1. Review UAS-1: My Concepts
 
 **Judul:** EduBridge: Menjembatani Kesenjangan Pendidikan melalui Teknologi Cerdas
